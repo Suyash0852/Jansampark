@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598410561447",
+    "project_id": "jansampark3-5a235",
+    "storage_bucket": "jansampark3-5a235.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598410561447:android:fecafa0403f8be34779882",
+        "android_client_info": {
+          "package_name": "com.example.jan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_tqEHYJD0eUNR7ZBUkbGvcUQXohBJwu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
